@@ -1,0 +1,29 @@
+{
+    "laptops":[
+        {
+            "name":"Nokia",
+            "image":"../img/1.jpg",
+            "originalprice":17000,
+            "price":16000
+        },{
+            "name":"realme",
+            "image":"../img/2.jpg",
+            "originalprice":21000,
+            "price":20000
+        },{
+            "name":"samsung",
+            "image":"../img/3.jpg",
+            "originalprice":31000,
+            "price":30000
+        },{ "name":"apple",
+            "image":"../img/4.jpg",
+            "originalprice":51000,
+            "price":50000},
+            {
+                "name":"redmi",
+                "image":"../img/5.jpg",
+                "originalprice":11000,
+                "price":10000
+                          }
+                        ]
+}
